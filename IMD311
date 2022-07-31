@@ -1,0 +1,749 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title> MUHAMMAD ASYRAAF BIN MOHD ZAKI (2019845778) </title>
+
+	<style>
+		body
+		{
+			background-image: url(images/Blackstone.jpg);
+		}
+		h1
+		{
+			text-align: center;
+			color: skyblue;
+			font-family: arial;
+		}
+		button
+		{
+			font-size: 18px;
+			font-family: arial;
+			border: none;
+			background-color: yellowgreen;
+			padding: 15px 32px;
+		}
+		button:hover
+		{
+			background-color: mediumpurple;
+		}
+		button:active
+		{
+			background-color: mediumpurple;
+			box-shadow: 0 5px;
+			transform: translateY(4px);
+		}
+	</style>
+
+</head>
+<body>
+
+<h1> THIS IS MY PAGE OF ASYRAAF (HOME PAGE) </h1>
+
+<div align="center">
+<p><img src="images/asyraaf.jpeg" width="500px" style="float: center;"></p>
+</div>
+
+<div align="center">
+<button onclick="document.location='index_biodata.html'"> BIODATA!!! </button>
+
+<button onclick="document.location='index_experience.html'"> EXPERIENCES!!! </button>
+
+<button onclick="document.location='index_education.html'"> EDUCATION!!! </button>
+
+<button onclick="document.location='index_family.html'"> FAMILY!!! </button>
+
+<button onclick="document.location='index_hobby.html'"> HOBBY!!! </button>
+
+<button onclick="document.location='index_gallery.html'"> GALLERY!!! </button>
+
+<button onclick="document.location='index_contact_me.html'"> CONTACT ME!!! </button>
+</div>
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title> BIODATA - MUHAMMAD ASYRAAF </title>
+
+	<style>
+		body
+		{
+			background-image: url(images/Blackstone.jpg);
+		}
+		h1
+		{
+			text-align: center;
+			color: whitesmoke;
+			font-family: arial;
+		}
+		p
+		{
+			color: whitesmoke;
+			font-size: 25px;
+			font-family: arial;
+		}
+		button
+		{
+			font-size: 18px;
+			font-family: arial;
+			border: none;
+			background-color: greenyellow;
+			padding: 15px 32px;
+		}
+		button:hover
+		{
+			background-color: blueviolet;
+		}
+		button:active
+		{
+			background-color: blueviolet;
+			box-shadow: 0 5px;
+			transform: translateY(4px);
+		}
+		table, th, tr, td
+		{
+			color: whitesmoke;
+			border-collapse: collapse;
+			text-align: center;
+			border-color: whitesmoke;
+		}
+		th, td, tr
+		{
+			padding: 10px;
+			font-family: arial;
+		}
+		caption
+		{
+			font-size: 25px;
+			font-family: arial;
+		}
+		th, td
+		{
+			font-size: 20px;
+		}
+		li
+		{
+			color: whitesmoke;
+			font-family: arial;
+			font-size: 25px;
+		}
+	</style>
+
+</head>
+<body>
+
+<h1> BIODATA OF MUHAMMAD ASYRAAF </h1>
+
+<button onclick="document.location='index.html'">HOME PAGE!!!</button>
+
+<p>Assalamualaikum...</p>
+
+<p>This is my biodata.</p>
+
+<p>My name is Muhammad Asyraaf Bin Mohd Zaki. I am 21 years old. I was the fourth from 5 siblings and i was born at Hospital Jerteh, Terengganu. My father and i live seperately meanwhile my siblings and i live with my grandmother house with our uncle and my father live at his home. </p>
+
+<p> MY PERSONALITY TRAITS </p>
+
+<p><ul>
+	<li>CARING</li>
+	<li>HUMBLE</li>
+	<li>PASSIONATE</li>
+	<li>SOFT SPOKEN</li>
+</ul></p>
+
+<table style="width: 100%" border="solid">
+	<caption> BIODATA OF MY FAMILY </caption>
+	<tr>
+		<th>NAME</th>
+		<th>AGE</th>
+		<th>EDUCATION</th>
+		<th>NO. PHONE</th>
+	</tr>
+	<tr>
+		<td>SITI HASANAH BINTI MOHD ZAKI</td>
+		<td>28</td>
+		<td>NO OCCUPATION</td>
+		<td>0168222446</td>
+	</tr>
+	<tr>
+		<td>MUHAMMAD AKMAL HISYAM BIN MOHD ZAKI</td>
+		<td>27</td>
+		<td>RAMLY FACTORY WORKER</td>
+		<td>0137271495</td>
+	</tr>
+	<tr>
+		<td>NURINA FARHANA BINTI MOHD ZAKI</td>
+		<td>25</td>
+		<td>FLASH EXPRESS WORKER</td>
+		<td>0145362991</td>
+	</tr>
+	<tr>
+		<td>MUHAMMAD ASYRAAF BIN MOHD ZAKI</td>
+		<td>22</td>
+		<td>UITM MACHANG</td>
+		<td>01125716159</td>
+	</tr>
+	<tr>
+		<td>MUHAMMAD FARIS BIN MOHD ZAKI</td>
+		<td>19</td>
+		<td>POLITEKNIK KOK LANAS, KOTA BHARU</td>
+		<td>0142927594</td>
+	<tr>
+		<td>MOHAMMAD ZAKI BIN MAMAT</td>
+		<td>60</td>
+		<td>LABOUR WORKER</td>
+		<td>01110841519</td>
+</table>
+
+
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title> CONTACT ME - MUHAMMAD ASYRAAF </title>
+
+	<style>
+		body
+		{
+			background-image: url(images/Blackstone.jpg);
+		}
+		h1
+		{
+			text-align: center;
+			color: whitesmoke;
+			font-family: arial;
+		}
+		p
+		{
+			color: whitesmoke;
+			font-size: 25px;
+			font-family: arial;
+		}
+		button
+		{
+			font-size: 18px;
+			font-family: arial;
+			border: none;
+			background-color: greenyellow;
+			padding: 15px 32px;
+		}
+		button:hover
+		{
+			background-color: mediumpurple;
+		}
+		button:active
+		{
+			background-color: mediumpurple;
+			box-shadow: 0 5px;
+			transform: translateY(4px);
+		}
+		a 
+		{
+			color: whitesmoke;
+			font-family: arial;
+			font-size: 25px;
+		}
+		a:hover
+		{
+			color: yellow;
+			background-color: underline;
+		}
+	</style>
+</head>
+<body>
+
+<h1 style="text-align: center;"> CONTACT ME!!! </h1>
+
+<button onclick="document.location='index.html'">HOME PAGE!!!</button>
+
+<p> If any inquiries, can contact me direct </p>
+
+<p><a href="https://wa.me/qr/KIM7NXY27B25D1" target="_blank"> Whatsapp Me !!! </a></p>
+
+<p><a href="https://t.me/megavrs" target="_blank"> Telegram Me !!! </a></p>
+
+<p> Thank You Very Much To Visit My Page </p>
+
+<img src="gif/rock.gif" width="205px">
+
+<img src="gif/hmm.gif" width="154px">
+
+<img src="gif/do it.gif" width="272px">
+
+<img src="gif/just.gif" width="205px">
+
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title> EDUCATION - MUHAMMAD ASYRAAF </title>
+
+<style>
+	body
+		{
+			background-image: url(images/Blackstone.jpg);
+		}
+		h1
+		{
+			text-align: center;
+			color: whitesmoke;
+			font-family: arial;
+		}
+		p
+		{
+			color: whitesmoke;
+			font-size: 25px;
+			font-family: arial;
+		}
+		button
+		{
+			font-size: 18px;
+			font-family: arial;
+			border: none;
+			background-color: greenyellow;
+			padding: 15px 32px;
+		}
+		button:hover
+		{
+			background-color: mediumpurple;
+		}
+		button:active
+		{
+			background-color: mediumpurple;
+			box-shadow: 0 5px;
+			transform: translateY(4px);
+		}
+		li
+		{
+			color: whitesmoke;
+			font-family: arial;
+			font-size: 25px;
+		}
+		a 
+		{
+			color: whitesmoke;
+			font-family: arial;
+			font-size: 25px;
+		}
+		a:hover
+		{
+			color: yellow;
+			background-color: underline;
+		}
+</style>
+
+</head>
+<body>
+
+<h1> EDUCATIONS OF MUHAMMAD ASYRAAF </h1>
+
+<button onclick="document.location='index.html'">HOME PAGE!!!</button>
+
+<p> MY EDUCATIONS </p>
+
+<p>1. TASKA D UMI NA KUALA BESUT, TERENGGANU</p>
+
+<p><img src="images/taska.jpg" width="550px" height="550px"></p>
+
+<a href="https://goo.gl/maps/qh81m2R3rbVghA2o9" target="_blank"> TASKA D UMI NA KUALA BESUT, TERENGGANU (GOOGLE MAPS)</a>
+
+<p><ul>
+	<li> I studied at Tabika D Umi Na Kuala Besut, Terengganu for half a month from the age of 6 years old and i jumped to the primary school. </li>
+</ul></p>
+
+<p>2. SEKOLAH KEBANGSAAN KUALA BESUT 2, TERENGGANU</p>
+
+<p><img src="images/skkb2.jpg" width="550px" height="550px"></p>
+
+<a href="https://goo.gl/maps/BMSVzPtkg31cgqRT8" target="_blank"> SEKOLAH KEBANGSAAN KUALA BESUT 2 (GOOGLE MAPS)</a>
+
+<p><ul>
+	<li>I studied at SK Kuala Besut for 6 years from 6 years old to 12 years old because i jumped to primary school at 6 years old, i have to repeat the same year again to match my age.</li>
+</ul></p>
+
+<p>3. SEKOLAH MENENGAH KEBANGSAAN KUALA BESUT, TERENGGANU</p>
+
+<p><img src="images/smkkb.jpeg" width="550px" height="550px"></p>
+
+<a href="https://goo.gl/maps/nAaKQYVzfbKDFqX39" target="_blank"> SEKOLAH MENENGAH KEBANGSAAN KUALA BESUT (GOOGLE MAPS)</a>
+
+<p><ul>
+	<li>Then I studied in SMK Kuala Besut for 5 years from 13 years old to 17 years old.</li>
+</ul></p>
+
+<p>4. UiTM MACHANG</p>
+
+<p><img src="images/uitm.png" width="550px" height="550px"></p>
+
+<a href="https://www.google.com/maps/place/MARA+University+of+Technology+Kelantan/@5.7578399,102.2745358,15z/data=!4m5!3m4!1s0x0:0xaeb67217536d6442!8m2!3d5.7578399!4d102.2745358" target="_blank"> UiTM MACHANG (GOOGLE MAPS)</a>
+
+<p><ul>
+	<li>After that, I continue in Pre-Diploma at UiTM Dungun, Terengganu for 1 Semester in 2018.</li>
+	<li>Then, I continued my studies in Diploma at UiTM Machang as Information Management for 5 Semesters from 2019 to 2022.</li>
+</ul></p>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title> EXPERIENCE - MUHAMMAD ASYRAAF </title>
+
+	<style>
+		body
+		{
+			background-image: url(images/Blackstone.jpg);
+		}
+		h1
+		{
+			text-align: center;
+			color: whitesmoke;
+			font-family: arial;
+		}
+		p
+		{
+			color: whitesmoke;
+			font-size: 25px;
+			font-family: arial;
+		}
+		button
+		{
+			font-size: 18px;
+			font-family: arial;
+			border: none;
+			background-color: greenyellow;
+			padding: 15px 32px;
+		}
+		button:hover
+		{
+			background-color: mediumpurple;
+		}
+		button:active
+		{
+			background-color:mediumpurple;
+			box-shadow: 0 5px;
+			transform: translateY(4px);
+		}
+		li
+		{
+			color: whitesmoke;
+			font-family: arial;
+			font-size: 25px;
+		}
+	</style>
+
+</head>
+<body>
+
+<h1> EXPERIENCE OF MUHAMMAD ASYRAAF </h1>
+
+<button onclick="document.location='index.html'">HOME PAGE!!!</button>
+
+<p> MY EXPERIENCES </p>
+
+<p><ol>
+	<li>Since i was a little, I've been introduced using a computer by my uncle at home. At 11 years old Terengganu Minister gives a notebook to the primary school students for free for uses in education purpose. That's how knowledgeable I am about the computer system. For instance, i know how to remove a virus and how to install a software.</li>
+	<li>I using my notebook as reference on how to install and update a software.</li>
+	<li>Sometimes i install a new components in my notebook for example a ram or graphic card only by myself.</li>
+	<li>Now i studied how to make a website using html.</li>
+</ol></p>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title> FAMILY - MUHAMMAD ASYRAAF </title>
+
+	<style>
+		body
+		{
+			background-image: url(images/Blackstone.jpg);
+		}
+		h1
+		{
+			text-align: center;
+			color: whitesmoke;
+			font-family: arial;
+		}
+		p
+		{
+			color: whitesmoke;
+			font-size: 25px;
+			font-family: arial;
+		}
+		button
+		{
+			font-size: 18px;
+			font-family: arial;
+			border: none;
+			background-color: greenyellow;
+			padding: 15px 32px;
+		}
+		button:hover
+		{
+			background-color: mediumpurple;
+		}
+		button:active
+		{
+			background-color: mediumpurple;
+			box-shadow: 0 5px;
+			transform: translateY(4px);
+		}
+		li 
+		{
+			color: whitesmoke;
+			font-family: arial;
+			font-size: 25px;
+		}
+	</style>
+</head>
+<body>
+
+<h1> FAMILY OF MUHAMMAD ASYRAAF </h1>
+
+<button onclick="document.location='index.html'">HOME PAGE!!!</button>
+
+<p><img src="images/family.jpeg" width="500px"></p>
+
+<p> MY DAD'S BACKGROUND </p>
+
+<p><ul>
+	<li>Name is Mohammad Zaki Bin Mamat</li>
+	<li>He age is 60 years old</li>
+	<li>He worked as a labour worker</li>
+	<li>He is kind, strict, caring, and has a islamic knowledge</li>
+</ul></p>
+
+<p> MY ELDEST SISTER BACKGROUND </p>
+
+<p><ul>
+	<li>Name is Siti Hasanah Binti Mohd Zaki</li>
+	<li>She age is 28 years old</li>
+	<li>She has no occupation</li>
+	<li>She is kind, caring and sometimes scary</li>
+</ul></p>
+
+<p> MY OLDER BROTHER'S BACKGROUND </p>
+
+<p><ul>
+	<li>Name is Mohammad Akmal Hisyam Bin Mohd Zaki</li>
+	<li>He age 27 years old</li>
+	<li>He work at Ramli Burger Factory at Shah Alam</li>
+	<li>He just do his own business, and hardworking when he needs something</li>
+</ul></p>
+
+<p>MY SISTER</p>
+
+<P><ul>
+	<li>Name is Nurina Farhana Binti Mohd Zaki</li>
+	<li>she is 25 years old</li>
+	<li>she is currently working at Flash Express at Kampung Raja Kuala Besut, Terengganu</li>
+	<li>she is a caring person, always take care of her siblings</li>
+</ul></P>
+
+<p>MY YOUNGER BROTHER</p>
+
+<p><ul>
+	<li>Name is Muhammad Faris Bin Mohd Zaki</li>
+	<li>19 years old this year</li>
+	<li>Currently studied at Politeknik Kok Lanas, Kota Bharu, Kelantan</li>
+	<li>he is easy to stress, need attention and passionate person</li>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title> GALLERY - MUHAMMAD ASYRAAF </title>
+
+	<style>
+		body
+		{
+			background-image: url(images/Blackstone.jpg);
+		}
+		h1
+		{
+			text-align: center;
+			color: whitesmoke;
+			font-family: arial;
+		}
+		p
+		{
+			color: whitesmoke;
+			font-size: 25px;
+			font-family: arial;
+		}
+		button
+		{
+			font-size: 18px;
+			font-family: arial;
+			border: none;
+			background-color: greenyellow;
+			padding: 15px 32px;
+		}
+		button:hover
+		{
+			background-color: mediumpurple;
+		}
+		button:active
+		{
+			background-color: mediumpurple;
+			box-shadow: 0 5px;
+			transform: translateY(4px);
+		}
+	</style>
+</head>
+<body>
+
+<h1> GALLERY OF MUHAMMAD ASYRAAF </h1>
+
+<button onclick="document.location='index.html'">HOME PAGE!!!</button>
+
+<p style="text-align: center;"><b> THIS IS MY GALLERY </p></b>
+
+<img src="gallery/seraf1.jpeg" width="170px">
+
+<img src="gallery/seraf2.jpeg" height="300px">
+
+<img src="gallery/seraf3.jpeg" height="300px">
+
+<img src="gallery/seraf4.jpeg" height="300px">
+
+<img src="gallery/seraf5.jpeg" height="300px">
+
+<img src="gallery/seraf6.jpeg" height="300px">
+
+<img src="gallery/seraf7.jpeg" height="300px">
+
+<img src="gallery/seraf8.jpeg" height="300px">
+
+<img src="gallery/seraf9.jpeg" height="300px">
+
+<img src="gallery/seraf10.jpeg" height="300px">
+
+<img src="gallery/seraf11.jpeg" height="300px">
+
+<img src="gallery/seraf12.jpeg" height="300px">
+
+<img src="gallery/seraf13.jpeg" height="300px">
+
+<img src="gallery/seraf15.jpeg" height="300px">
+
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title> HOBBY - MUHAMMAD ASYRAAF </title>
+
+	<style>
+		body
+		{
+			background-image: url(images/Blackstone.jpg);
+		}
+		h1
+		{
+			text-align: center;
+			color: whitesmoke;
+			font-family: arial;
+		}
+		p
+		{
+			color: whitesmoke;
+			font-size: 25px;
+			font-family: arial;
+		}
+		button
+		{
+			font-size: 18px;
+			font-family: arial;
+			border: none;
+			background-color: greenyellow;
+			padding: 15px 32px;
+		}
+		button:hover
+		{
+			background-color: mediumpurple;
+		}
+		button:active
+		{
+			background-color: mediumpurple;
+			box-shadow: 0 5px;
+			transform: translateY(4px);
+		}
+		a
+		{
+			color: whitesmoke;
+			font-size: 25px;
+			font-family: arial
+		}
+		a:hover
+		{
+			color: yellow;
+			background-color: underline;
+		}
+	</style>
+</head>
+<body>
+
+<h1> HOBBY OF MUHAMMAD ASYRAAF </h1>
+
+<button onclick="document.location='index.html'">HOME PAGE!!!</button>
+
+<p> My hobby is playing games. There are many games I played, and the most played are 2 games: </p>
+
+<p> 1. Free Fire </p>
+
+<p><img src="hobby/ff.jpg" width="310px"></p>
+
+<p> BACKGROUND OF FREE FIRE </p>
+
+<p> Garena Free Fire, also known as Free Fire, is a battle royale game, developed by Vietnamese game company 111dots Studio and published by Garena for Android and iOS. It became the most downloaded mobile game globally in 2019. In August 2021, Free Fire set a record with over 150 million daily active users globally. </p>
+
+<p><a href="https://play.google.com/store/apps/details?id=com.dts.freefiremax" target="_blank"> Free Fire Playstore </a></p>
+
+<p><a href="https://ff.garena.com/">Free Fire Website </a></p>
+
+<p><a href="https://www.facebook.com/freefiremalaysia/?brand_redir=1709512065823707" target="_blank"> Free Fire Facebook Page </a></p>
+
+<p><a href="https://www.youtube.com/c/GarenaFreeFireMY" target="_blank"> Garena Free Fire MY Youtube Channel </a></p>
+
+<p> 2. Mobile Legends : Bang Bang </p>
+
+<p><img src="hobby/ml.jpg" width="330px"></p>
+
+<p> BACKGROUND OF MOBILE LEGENDS : BANG BANG </p>
+
+<p> Mobile Legends : Bang Bang is mobile multiplayer online battle arena developed and published by Moonton, a subsidiary of ByteDance. Its launched by 24 September 2016 in mobile. </p>
+
+<p><a href="https://play.google.com/store/apps/details?id=com.mobile.legends&hl=en&gl=US" target="_blank"> Mobile Legends Playstore </a></p>
+
+<p><a href="https://m.mobilelegends.com/en" target="_blank"> Mobile Legends Website </a></p>
+
+<p><a href="https://www.facebook.com/mobilelegendsgame/" target="_blank"> Mobile Legends Facebook Page </a></p>
+
+<p><a href="https://www.instagram.com/mobilelegendsgame/?hl=en" target="_blank"> Mobile Legends Instagram Page </a></p>
+
+<p><a href="https://www.youtube.com/channel/UCqmld-BIYME2i_ooRTo1EOg" target="_blank"> Mobile Legends Youtube Channel </a></p>
+
+</body>
+</html>
